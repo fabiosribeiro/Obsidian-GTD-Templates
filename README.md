@@ -1,5 +1,41 @@
 # Obsidian-GTD-Templates ( In draft )
-My GTD Templates and views
+My GTD Templates and views. 
+This aproach is trying to address Note based priority based on folder levels and tasks. 
+
+- New notes will be added on Inbox. 
+- Actionable notes will be on 1X folders. 
+For example: 
+**Contexts** - Based on tags. Eg.: #Area/AreaName
+On the context I have a file as below:
+ 
+- Active projects folder - Project on focus 
+- Next - Actionable notes 
+- Later ( Intermediate level between Next and Someday ) Not mandatory and not official on GTD. But it helps to organize
+- Someday 
+
+- Completed notes should be moved to 99 - Completed
+
+## Focus ( Top 3 )
+
+```dataview
+LIST
+FROM #Area/AreaName   
+WHERE contains(file.folder,"Project") 
+sort file.folder
+limit 3
+```
+
+## Planning
+
+```dataview
+TABLE without id
+file.link as "Project",
+file.folder as "Folder"
+FROM #Area/AreaName   
+WHERE contains(file.folder,"Next") or  contains(file.folder,"Someday") or contains(file.folder,"Project")  or contains(file.folder,"Later")
+sort file.folder
+```
+
 
 ## Required plugins
 The Obsidian setup requires the plugins below:
