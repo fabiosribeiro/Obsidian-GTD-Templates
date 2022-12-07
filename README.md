@@ -12,9 +12,10 @@ Provide a task functionality. On plugin configuration panel, enable "Set done da
 ### Obsidian Calendar - https://github.com/liamcain/obsidian-calendar-plugin
 
 ## Nice to have
-- Obsidian Outliner -  https://github.com/vslinko/obsidian-outliner
-- Obsidian templater - https://github.com/SilentVoid13/Templater
-
+### Obsidian Outliner -  https://github.com/vslinko/obsidian-outliner
+- Help to move tasks and bullets to up and down
+### Obsidian templater - https://github.com/SilentVoid13/Templater
+- 
 
 ## Folders
 Folders use a number prefix to sort them on side panel. 
