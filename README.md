@@ -23,21 +23,21 @@ Folders use a number prefix to sort them on side panel.
 ![imagem](https://user-images.githubusercontent.com/4821589/206133551-3a597c08-9ce2-4418-9ff8-32f33eeb0a92.png)
 
 
-/00 - Inbox 
-/01 - Journal
-/02 - Views 
-/10 - Contexts 
-/11 - Acrive Projects
-/12 - Next
-/14 - Later 
-/15 - Someday
-/90 - Reference
-  Archived projects
-  Companies
-  Files
-  Notes
-  People
-  Templates
+- /00 - Inbox 
+- /01 - Journal
+- /02 - Views 
+- /10 - Contexts 
+- /11 - Acrive Projects
+- /12 - Next
+- /14 - Later 
+- /15 - Someday
+- /90 - Reference
+  - Archived projects
+  - Companies
+  - Files
+  - Notes
+  - People
+  - Templates
 /99 - Completed 
 
 ![imagem](https://user-images.githubusercontent.com/4821589/206133667-85f2e9d2-7d5b-4ed4-bdd1-d4c51e61d000.png)
