@@ -51,7 +51,7 @@ Provide a task functionality. On plugin configuration panel, enable "Set done da
 ### Obsidian Outliner -  https://github.com/vslinko/obsidian-outliner
 - Help to move tasks and bullets to up and down
 ### Obsidian templater - https://github.com/SilentVoid13/Templater
-- 
+- Help to automate daily templates
 
 ## Folders
 Folders use a number prefix to sort them on side panel. 
