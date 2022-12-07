@@ -85,3 +85,5 @@ View folder has dataview widgets to help you to manage notes and tasks
 ![imagem](https://user-images.githubusercontent.com/4821589/206135530-bff5920a-788b-48e1-8c6b-92e5148b3487.png)
 
 
+Reach me if you find this useful. 
+
