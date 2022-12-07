@@ -38,11 +38,9 @@ Folders use a number prefix to sort them on side panel.
   Notes
   People
   Templates
-![imagem](https://user-images.githubusercontent.com/4821589/206133667-85f2e9d2-7d5b-4ed4-bdd1-d4c51e61d000.png)
-
 /99 - Completed 
 
-
+![imagem](https://user-images.githubusercontent.com/4821589/206133667-85f2e9d2-7d5b-4ed4-bdd1-d4c51e61d000.png)
 
 
 ## Views
